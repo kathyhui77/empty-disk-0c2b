@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "empty-disk-0c2b",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "42e9c64b-e3b4-4b1d-a6ac-5a9a4252fdef",
+      "database_name": "green-grass-922a-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
